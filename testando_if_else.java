@@ -6,18 +6,23 @@ public class testando_if_else {
 	
 	Scanner sc = new Scanner (System.in);
 	
-	System.out.println("Digite um número inteiro, sendo ele negativo ou positivo: ");
+	System.out.println("Digite um nÃºmero inteiro, sendo ele negativo ou positivo: ");
 	int x = sc.nextInt();
 	
 	System.out.println();
 	
 	if (x < 0) {
-		System.out.println("O número digitado é um valor NEGATIVO.");
+		System.out.println("O nÃºmero digitado Ã© um valor NEGATIVO.");
+		
+	}
+	
+	if (x == 0) {
+		System.out.println("O nÃºmero digitado Ã© um valor NEUTRO, pois Ã© 0.");
 		
 	}
 	
 	else {
-		System.out.println("O número digitado é um valor POSITIVO.");
+		System.out.println("O nÃºmero digitado Ã© um valor POSITIVO.");
 	
 	}
 	
