@@ -36,5 +36,5 @@ public class testando_if_elseif {
 		}
 		System.out.println("Dia da Semana: " + dia);
 		sc.close();
-	}
+	} 
 }
