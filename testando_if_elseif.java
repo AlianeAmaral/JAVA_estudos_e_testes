@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class testando_if_elseif {
 
 	public static void main(String[] args) {
-
+ 
 		Scanner sc = new Scanner(System.in);
 
 		System.out.println("Digite o número para o dia da semana, de 1 até 7: ");
@@ -36,7 +36,5 @@ public class testando_if_elseif {
 		}
 		System.out.println("Dia da Semana: " + dia);
 		sc.close();
-
 	}
-
 }
