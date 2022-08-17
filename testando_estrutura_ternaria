@@ -1,0 +1,20 @@
+import java.util.Scanner;
+
+public class testando_estrutura_ternaria {
+
+	public static void main(String[] args) {
+	
+	Scanner sc = new Scanner (System.in);
+	
+	System.out.println("Compre mais de R$ 100.00 e ganhe R$ 20,00 de desconto. Aproveite!");
+	System.out.println("Digite o valor total da compra: R$ ");
+	
+	double preco = sc.nextDouble();
+	double desconto = (preco > 100.0)? preco*0.1:preco*0.2;
+	double precoFinal = preco - desconto;
+	
+	System.out.println("Total da sua compra é: " + precoFinal);
+
+	}
+
+}
