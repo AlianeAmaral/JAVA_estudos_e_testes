@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class testando_if_else {
+public class valor_numero_if_else {
 
 	public static void main(String[] args) {
 	
@@ -12,22 +12,14 @@ public class testando_if_else {
 	System.out.println();
 	
 	if (x < 0) {
-		System.out.println("O número digitado é um valor NEGATIVO.");
-		
+		System.out.println("O número digitado é um valor NEGATIVO.");	
 	}
-	
 	if (x == 0) {
-		System.out.println("O número digitado é um valor NEUTRO, pois é 0.");
-		
+		System.out.println("O número digitado é um valor NEUTRO, pois é 0.");	
 	}
-	
 	else {
 		System.out.println("O número digitado é um valor POSITIVO.");
-	
 	}
-	
 	sc.close();
-	
 	}
-
 }
