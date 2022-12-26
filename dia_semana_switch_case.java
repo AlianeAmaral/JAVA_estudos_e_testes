@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class testando_switch_case {
+public class dia_semana_switch_case {
 
 	public static void main(String[] args) {
 
@@ -32,7 +32,7 @@ public class testando_switch_case {
 		case 7:
 			dia = "O sétimo dia da semana é SÁBADO.";
 			break;
-		default:
+		default: 
 			dia = "O valor digitado é inválido. Digite um número de 1 a 7.";
 		}
 		System.out.println(dia);
