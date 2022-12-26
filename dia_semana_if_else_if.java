@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class testando_if_elseif {
+public class dia_semana_if_else_if {
 
 	public static void main(String[] args) {
  
@@ -31,7 +31,7 @@ public class testando_if_elseif {
 		else if (numero == 7) {
 			dia = "SÁBADO.";
 		}
-		else {
+		else { 
 			dia = "NÚMERO INVÁLIDO.";
 		}
 		System.out.println("Dia da Semana: " + dia);
