@@ -14,7 +14,5 @@ public class testando_estrutura_ternaria {
 	double precoFinal = preco - desconto;
 	
 	System.out.println("Total da sua compra é: " + precoFinal);
-
 	}
-
 }
