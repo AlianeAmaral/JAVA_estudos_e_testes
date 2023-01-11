@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class desconto_compra_estrutura_ternaria {
+public class estudo_5_desconto_compra_estrutura_ternaria {
 
 	public static void main(String[] args) {
 	
@@ -16,4 +16,3 @@ public class desconto_compra_estrutura_ternaria {
 	System.out.println("Total da sua compra é: " + precoFinal);
 	}
 }
- 
