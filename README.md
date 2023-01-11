@@ -1,5 +1,5 @@
-## ⚜️ JAVA - Estudos e Testes
-<i>Estudos próprios utilizando recursos do aprendizado de programação JAVA.</i> 
+<h2 align="center">⚜️ JAVA - Estudos e Testes
+<i><h4 align="center">Estudos próprios utilizando recursos do aprendizado de programação JAVA.</i> 
 
 ##  
 
