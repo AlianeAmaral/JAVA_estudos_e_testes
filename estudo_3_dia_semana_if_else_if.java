@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class dia_semana_if_else_if {
+public class estudo_3_dia_semana_if_else_if {
 
 	public static void main(String[] args) {
  
