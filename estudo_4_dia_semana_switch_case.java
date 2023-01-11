@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class dia_semana_switch_case {
+public class estudo_4_dia_semana_switch_case {
 
 	public static void main(String[] args) {
 
