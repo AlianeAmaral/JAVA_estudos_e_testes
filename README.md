@@ -1,5 +1,7 @@
 ## ⚜️ JAVA - Estudos e Testes
-<i>Estudos próprios utilizando recursos do aprendizado de programação JAVA, como: sistemas com if else, switch case e estrutura ternária.</i>
+<i>Estudos próprios utilizando recursos do aprendizado de programação JAVA.</i> 
+
+##  
 
 <h4>✔️ estudo_1_media_aluno.java</h4>
 
