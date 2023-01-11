@@ -5,7 +5,7 @@
 
 <h4>📚 estudo_1_media_aluno.java</h4>
 
-<h6>Sistema calcula a média do aluno com base nas notas informadas. Exercício de entrada e saída de dados, estrutura sequencial.</h6>
+<h6>Sistema calcula a média do aluno com base nas notas informadas. Exercício de entrada e saída de dados, da estrutura sequencial.</h6>
 
 <h4>📚 estudo_2_sinal_numero_if_else.java</h4>
 
