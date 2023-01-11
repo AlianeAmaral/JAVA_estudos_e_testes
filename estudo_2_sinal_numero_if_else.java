@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class valor_numero_if_else {
+public class estudo_2_sinal_numero_if_else {
 
 	public static void main(String[] args) {
 	
