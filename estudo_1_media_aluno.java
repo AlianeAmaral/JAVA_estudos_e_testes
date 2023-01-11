@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class media_avaliacoes_aluno { 
+public class estudo_1_media_aluno { 
 
 	public static void main(String[] args) {
 	
