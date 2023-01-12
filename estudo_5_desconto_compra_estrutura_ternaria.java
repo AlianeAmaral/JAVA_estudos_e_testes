@@ -10,9 +10,9 @@ public class estudo_5_desconto_compra_estrutura_ternaria {
 	System.out.println("Digite o valor total da compra: R$ ");
 	
 	double preco = sc.nextDouble();
-	double precoDesconto = (preco >= 100.0)? preco-20:preco-0;
+	double precoFinal = (preco >= 100.0)? preco-20:preco-0;
 	
-	System.out.printf("Total da Compra: R$ %.2f %n", precoDesconto);
+	System.out.printf("Total da Compra: R$ %.2f %n", precoFinal);
 	
 	sc.close();
 	}
