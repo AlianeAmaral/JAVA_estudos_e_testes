@@ -16,4 +16,4 @@ public class estudo_5_desconto_compra_estrutura_ternaria {
 	
 	sc.close();
 	}
-}
+} 
