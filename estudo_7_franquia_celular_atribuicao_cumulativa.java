@@ -1,4 +1,3 @@
-package estudos_programacao;
 import java.util.Scanner;
 
 public class estudo_7_franquia_celular_atribuicao_cumulativa {
@@ -14,7 +13,6 @@ public class estudo_7_franquia_celular_atribuicao_cumulativa {
 	if (minutosConsumo <= 100) {
 		System.out.println("Valor a Pagar: R$ 50,00");
 	}
-	
 	else if (minutosConsumo > 100) {
 		excedente = ((minutosConsumo - 100) * 2) + 50;
 		
@@ -29,5 +27,4 @@ public class estudo_7_franquia_celular_atribuicao_cumulativa {
 	
 	sc.close();
 	}
-
 }
