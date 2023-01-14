@@ -22,3 +22,7 @@
 <h4>📚 estudo_5_desconto_compra_estrutura_ternaria.java</h4>
 
 <h6>Sistema fornece desconto para uma compra se o total ultrapassa um determinado valor. Exercício utilizando Estrutura Ternária, da estrutura condicional.</h6>
+
+<h4>📚 estudo_6_cumprimentos.java</h4>
+
+<h6>Sistema apresenta o cumprimento comum com base no horário informado. Exercício utilizando If/ElseIf, da estrutura condicional.</h6>
