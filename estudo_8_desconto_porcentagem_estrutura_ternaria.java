@@ -1,4 +1,3 @@
-package estudos_programacao;
 import java.util.Scanner;
 
 public class estudo_8_desconto_porcentagem_estrutura_ternaria {
