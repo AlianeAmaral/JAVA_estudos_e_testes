@@ -26,3 +26,7 @@
 <h4>📚 estudo_6_cumprimentos.java</h4>
 
 <h6>Sistema apresenta o cumprimento comum com base no horário informado. Exercício utilizando If/ElseIf, da estrutura condicional.</h6>
+
+<h4>📚 estudo_7_franquia_celular_atribuicao_cumulativa.java</h4>
+
+<h6></h6>
