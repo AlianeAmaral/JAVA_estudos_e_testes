@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Scanner; 
 
 public class estudo_7_franquia_celular_atribuicao_cumulativa {
 
