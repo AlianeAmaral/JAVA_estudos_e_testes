@@ -30,3 +30,7 @@
 <h4>📚 estudo_7_franquia_celular_atribuicao_cumulativa.java</h4>
 
 <h6></h6>
+
+<h4>📚 estudo_8_desconto_porcentagem_estrutura_ternaria.java</h4>
+
+<h6></h6>
