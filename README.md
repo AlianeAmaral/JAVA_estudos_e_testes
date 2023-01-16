@@ -21,7 +21,7 @@
 
 <h4>📚 estudo_5_desconto_compra_estrutura_ternaria.java</h4>
 
-<h6>Sistema fornece desconto para uma compra se o total ultrapassa um determinado valor. Exercício utilizando Estrutura Ternária, da estrutura condicional.</h6>
+<h6>Sistema fornece desconto de um valor fixo para uma compra se o total ultrapassa um determinado valor. Exercício utilizando Estrutura Ternária, da estrutura condicional.</h6>
 
 <h4>📚 estudo_6_cumprimentos.java</h4>
 
@@ -33,4 +33,4 @@
 
 <h4>📚 estudo_8_desconto_porcentagem_estrutura_ternaria.java</h4>
 
-<h6></h6>
+<h6>Sistema fornece desconto para uma compra se o total ultrapassa um determinado valor, semelhante ao EXERCÍCIO 5, mas agora o desconto é em porcentagem. Exercício utilizando Estrutura Ternária, da estrutura condicional.</h6>
