@@ -11,9 +11,7 @@
 
 [📚 estudo_4_dia_semana_switch_case.java](https://github.com/AlianeAmaral/JAVA_estudos_e_testes/blob/main/estudo_4_dia_semana_switch_case.java)<h6>Sistema coleta um número de 1 até 7 e informa qual dia da semana é correspondente ao número. Exercício utilizando Switch Case, da estrutura condicional.</h6>
 
-<h4>📚 estudo_5_desconto_compra_estrutura_ternaria.java</h4>
-
-<h6>Sistema fornece desconto de um valor fixo para uma compra se o total ultrapassa um determinado valor. Exercício utilizando Estrutura Ternária, da estrutura condicional.</h6>
+[📚 estudo_5_desconto_compra_estrutura_ternaria.java](https://github.com/AlianeAmaral/JAVA_estudos_e_testes/blob/main/estudo_5_desconto_compra_estrutura_ternaria.java)<h6>Sistema fornece desconto de um valor fixo para uma compra se o total ultrapassa um determinado valor. Exercício utilizando Estrutura Ternária, da estrutura condicional.</h6>
 
 <h4>📚 estudo_6_cumprimentos.java</h4>
 
