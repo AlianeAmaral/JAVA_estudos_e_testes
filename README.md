@@ -3,11 +3,9 @@
 
 ##  
 
-[📚 estudo_1_media_aluno.java ](https://github.com/AlianeAmaral/JAVA_estudos_e_testes/blob/main/estudo_1_media_aluno.java)<h6>Sistema calcula a média do aluno com base nas notas informadas. Exercício de entrada e saída de dados, da estrutura sequencial.</h6>
+[📚 estudo_1_media_aluno.java](https://github.com/AlianeAmaral/JAVA_estudos_e_testes/blob/main/estudo_1_media_aluno.java)<h6>Sistema calcula a média do aluno com base nas notas informadas. Exercício de entrada e saída de dados, da estrutura sequencial.</h6>
 
-<h4>📚 estudo_2_sinal_numero_if_else.java</h4>
-
-<h6>Sistema coleta um número e informa se ele é positivo, negativo ou neutro. Exercício utilizando If/Else, da estrutura condicional.</h6>
+[📚 estudo_2_sinal_numero_if_else.java](https://github.com/AlianeAmaral/JAVA_estudos_e_testes/blob/main/estudo_2_sinal_numero_if_else.java)<h6>Sistema coleta um número e informa se ele é positivo, negativo ou neutro. Exercício utilizando If/Else, da estrutura condicional.</h6>
 
 <h4>📚 estudo_3_dia_semana_if_else_if.java</h4>
 
