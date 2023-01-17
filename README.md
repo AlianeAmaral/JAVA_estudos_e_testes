@@ -17,6 +17,4 @@
 
 [📚 estudo_7_franquia_celular_atribuicao_cumulativa.java](https://github.com/AlianeAmaral/JAVA_estudos_e_testes/blob/main/estudo_7_franquia_celular_atribuicao_cumulativa.java)<h6>Dentro da franquia de um plano telefônico, custa R$ 50,00 e podem ser consumidos até 100 minutos de ligação. Para cada minuto excedido da franquia é cobrado o valor de R$ 2,00. Sistema questiona qual foi o valor de minutos consumido no mês e apresenta o valor da fatura a ser paga.</h6>
 
-<h4>📚 estudo_8_desconto_porcentagem_estrutura_ternaria.java</h4>
-
-<h6>Sistema fornece desconto para uma compra se o total ultrapassa um determinado valor, semelhante ao EXERCÍCIO 5, mas agora o desconto é em porcentagem. Exercício utilizando Estrutura Ternária, da estrutura condicional.</h6>
+[📚 estudo_8_desconto_porcentagem_estrutura_ternaria.java](https://github.com/AlianeAmaral/JAVA_estudos_e_testes/blob/main/estudo_8_desconto_porcentagem_estrutura_ternaria.java)<h6>Sistema fornece desconto para uma compra se o total ultrapassa um determinado valor, semelhante ao EXERCÍCIO 5, mas agora o desconto é em porcentagem. Exercício utilizando Estrutura Ternária, da estrutura condicional.</h6>
