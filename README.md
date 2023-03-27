@@ -1,6 +1,6 @@
 <h2 align="center">⚜️ JAVA - Estudos e Testes
 <i><h4 align="center">Estudos próprios utilizando recursos do aprendizado de programação JAVA.</i> 
-
+ 
 ##   
 
 [📚 estudo_1_media_aluno.java](https://github.com/AlianeAmaral/JAVA_estudos_e_testes/blob/main/estudo_1_media_aluno.java)<h6>Sistema calcula a média do aluno com base nas notas informadas. Exercício de entrada e saída de dados, da estrutura sequencial.</h6>
